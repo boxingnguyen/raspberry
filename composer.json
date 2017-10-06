@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "ronanguilloux/php-gpio": "^1.0"
+    },
+    "require": {
+        "piphp/gpio": "^0.3.3"
+    }
+}
