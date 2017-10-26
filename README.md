@@ -6,10 +6,10 @@ I try to made a self-driving car named RockBox but in version 1.0 it controllere
 
 This livestream part:
   ```
-  sudo apt-get update <br />
-  sudo apt-get dist-upgrade <br />
-  git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git <br />
-  cd RPi_Cam_Web_Interface <br />
+  sudo apt-get update 
+  sudo apt-get dist-upgrade 
+  git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git 
+  cd RPi_Cam_Web_Interface 
   ./install.sh
   ```
 and then html folder will be created in /var/www, you need modify this folder by add such php files note that add code of index.php to html/index.php) and main.js to html/js
